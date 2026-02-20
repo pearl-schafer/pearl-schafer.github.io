@@ -1,4 +1,6 @@
-# pearl-schafer.github.io[WeAreLittleCreatures.html](https://github.com/user-attachments/files/25452705/WeAreLittleCreatures.html)
+# pearl-schafer.github.io
+
+[WeAreLittleCreatures.html](https://github.com/user-attachments/files/25452705/WeAreLittleCreatures.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
